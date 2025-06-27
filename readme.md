@@ -17,8 +17,6 @@ And then connect them with arrows to show what happens first, next, last
 pip install typer rich pathlib pickle
 ```
 
-```
-
 ```bash
 python graph.py create <graphname>
 ```
